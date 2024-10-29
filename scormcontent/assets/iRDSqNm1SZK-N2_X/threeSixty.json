@@ -1,0 +1,32 @@
+{
+  "version": "3.86.32028.0",
+  "course_id": "60b6TgG2IR1",
+  "title": "lxd challenge",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6P9xJlGzaGT",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "664yL28jjGY",
+      "title": "Challenge question layer",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 635
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

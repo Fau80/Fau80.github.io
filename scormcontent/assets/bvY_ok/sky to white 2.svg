@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 690 30"><defs><style>.cls-1 {
+        fill: url(#linear-gradient);
+        stroke-width: 0px;
+      }</style><linearGradient id="linear-gradient" x1="427.5" y1="117.75" x2="463.5" y2="117.75" gradientTransform="translate(-100.25 -101.75)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset=".45" stop-color="#fff"/><stop offset=".87" stop-color="#cce0f4"/><stop offset=".99" stop-color="#cce0f4"/></linearGradient></defs><rect class="cls-1" x="327.25" y="-334.25" width="36" height="700.5" transform="translate(329.25 361.25) rotate(-90)"/></svg>
